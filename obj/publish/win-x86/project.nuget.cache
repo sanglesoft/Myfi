@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9MiZfnXNfTKkRxJ+AyDBxWY/mybHvyV2L1wriZKq4S1tfrEPTWZzRjaFY9ACAkkVHBFVwqCKe/tKeBvKSB31w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SangleSoft\\Desktop\\Wifi-Pass-master\\myfi\\myfi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SangleSoft\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\SangleSoft\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\SangleSoft\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\SangleSoft\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\myfi.exe
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\myfi.deps.json
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\myfi.runtimeconfig.json
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\myfi.dll
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\myfi.pdb
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.csproj.AssemblyReference.cache
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.AssemblyInfoInputs.cache
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.AssemblyInfo.cs
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.csproj.CoreCompileInputs.cache
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.dll
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\refint\myfi.dll
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.pdb
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\myfi.genruntimeconfig.cache
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\obj\Release\net6.0\ref\myfi.dll

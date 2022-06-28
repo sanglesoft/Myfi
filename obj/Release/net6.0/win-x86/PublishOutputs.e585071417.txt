@@ -1,0 +1,2 @@
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\publish\win-x86\myfi.pdb
+C:\Users\SangleSoft\Desktop\Wifi-Pass-master\myfi\bin\Release\net6.0\publish\win-x86\myfi.exe
